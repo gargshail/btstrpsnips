@@ -1,4 +1,4 @@
 btstrpsnips
 ===========
 
-bootstrap snippets
+place to keep frequently used bootstrap snippets
